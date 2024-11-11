@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color: rgb(242, 242, 242);
+}
+.form-aluno{
+    background-color: white;
+    margin:0 auto;
+    margin-top:50px;
+    width:250px;
+    padding:20px;
+    border:solid 1px #333;
+    border-radius:10px;
+}
+.form-aluno h2{
+    text-align:center;
+}
+.input-text,.select{
+    width:100%;
+}
+.form-aluno button{
+    width:100%;
+    margin-top:10px;
+}
